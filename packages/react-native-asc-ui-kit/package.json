@@ -1,3 +1,5 @@
 {
-  "name": "react-native-asc-ui-kit"
+  "name": "react-native-asc-ui-kit",
+  "version": "0.0.1",
+  "main": "index.tsx"
 }

@@ -4,7 +4,7 @@
   "main": "index.tsx",
   "peerDependencies": {
     "react": "*",
-    "react-native":"*"
+    "react-native": "*"
   },
   "devDependencies": {
     "@types/react": "^18.0.21",
